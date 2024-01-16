@@ -8,8 +8,7 @@ A Frontend Mentor's challenge
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://victoroliverc.github.io/news-homepage](https://victoroliverc.github.io/news-homepage/)
 
 ## Built with
 
